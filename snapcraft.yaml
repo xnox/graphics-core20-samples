@@ -29,7 +29,7 @@ plugs:
   graphics-core20:
     interface: content
     target: $SNAP/graphics
-    default-provider: nvidia-core20/edge
+    default-provider: nvidia-core20
 
 apps:
   bandwidthTest:
